@@ -1,0 +1,6 @@
+openai-whisper
+yt-dlp
+streamlit
+google-api-python-client
+openai
+torch
